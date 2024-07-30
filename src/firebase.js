@@ -9,7 +9,7 @@ const firebaseConfig = {
   projectId: "quora-af633",
   storageBucket: "quora-af633.appspot.com",
   messagingSenderId: "195998665962",
-  appId: "1:195998665962:web:a75971e1cafcaa968a1b93",
+  appId:  "1:195998665962:web:a75971e1cafcaa968a1b93",
   measurementId: "G-4Z4SVSPJ67"
 };
 
