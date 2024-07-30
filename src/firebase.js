@@ -1,7 +1,7 @@
 // firebase.js
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
-import { getFirestore, serverTimestamp } from " firebase/firestore";
+import { getFirestore, serverTimestamp } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDxd53e068mWg2Z4r2HBfJ62vkvWKkcUjo",
